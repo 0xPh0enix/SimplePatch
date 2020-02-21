@@ -1,2 +1,2 @@
 # SimplePatch
-```Simple PE-Patch on C++``` 
+```Simple Binary Patch on C++``` 
